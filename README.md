@@ -8,5 +8,5 @@ Data Structure and Algorithms practice.
 
 ## Topics(will keep updating)
 - Arrays
-
+- Random and Basic 
 Happy Coding! 🚀
