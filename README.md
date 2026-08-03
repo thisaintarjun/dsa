@@ -9,5 +9,5 @@ Data Structure and Algorithms practice.
 ## Topics(will keep updating)
 - Arrays
 - Random and Basic
-  
+- Sorting Algorithms
 Happy Coding! 🚀
